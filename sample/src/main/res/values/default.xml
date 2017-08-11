@@ -24,6 +24,9 @@
     <dimen name="mb_height_56">56dp</dimen>
     <dimen name="mb_height_8">8dp</dimen>
     <dimen name="mb_height_4">4dp</dimen>
+    <dimen name="mb_width_56">56dp</dimen>
+    <dimen name="mb_stroke_width_4">4dp</dimen>
+    <dimen name="mb_circle_radius_28">28dp</dimen>
 
     <integer name="mb_animation">500</integer>
 
